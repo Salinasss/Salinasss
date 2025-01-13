@@ -5,19 +5,9 @@
 ---
 
 ### 🌟 Habilidades
-- Lenguajes: JavaScript (Node.js, React), Python, Go
-- Tecnologías: Docker, Kubernetes, Kafka, Firebase
-- Áreas de interés: Redes, Ciberseguridad, Learning Analytics
+- Lenguajes: JavaScript (Node.js, React, TailwindCSS), TypeScript, Python.
+- Áreas de interés: Redes, Ciberseguridad, Learning Analytics, Hacking Etico, Desarrollo.
 
 ---
 
-### 🛠️ Proyectos destacados
-- [Sistema de Gestión de Procesos](https://github.com/tu-usuario/sistema-procesos) - Un simulador de procesos en Go.
-- [Aplicación de eventos astronómicos](https://github.com/tu-usuario/eventos-astronomicos) - Ionic y Node.js para recomendar lugares según el clima.
-- [Análisis de datos académicos](https://github.com/tu-usuario/eda-estudiantes) - Visualización de logs y notas con técnicas de machine learning.
 
----
-
-### 📫 Contacto
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 [tu.email@dominio.com](mailto:tu.email@dominio.com)
