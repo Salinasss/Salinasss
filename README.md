@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**Salinasss/Salinasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Ingeniero Civil Informático** con especialización en ciberseguridad, análisis de datos y desarrollo web. Apasionado por las tecnologías modernas y la resolución de problemas complejos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Habilidades
+- Lenguajes: JavaScript (Node.js, React), Python, Go
+- Tecnologías: Docker, Kubernetes, Kafka, Firebase
+- Áreas de interés: Redes, Ciberseguridad, Learning Analytics
+
+---
+
+### 🛠️ Proyectos destacados
+- [Sistema de Gestión de Procesos](https://github.com/tu-usuario/sistema-procesos) - Un simulador de procesos en Go.
+- [Aplicación de eventos astronómicos](https://github.com/tu-usuario/eventos-astronomicos) - Ionic y Node.js para recomendar lugares según el clima.
+- [Análisis de datos académicos](https://github.com/tu-usuario/eda-estudiantes) - Visualización de logs y notas con técnicas de machine learning.
+
+---
+
+### 📫 Contacto
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📧 [tu.email@dominio.com](mailto:tu.email@dominio.com)
